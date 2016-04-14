@@ -1,5 +1,5 @@
 # ud989-todo-app
-It is UD989 todo app project which taught in Javascript Design Pattern Class, using BackboneJS library.
+It is UD989 todo app project which taught in Javascript Design Pattern Class, using BackboneJS library. Written by Addy Osmani, Part of TodoMVC.
 
 ## how to start the app
 You can open the index.html in your browser, simply by drag the index.html file into your broswer open window. 
